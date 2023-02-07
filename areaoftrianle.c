@@ -10,7 +10,7 @@ int main()
   s=(a+b+c)/2;
   d=(s*(s-a)*(s-b)*(s-c));
   area=sqrt(d);
-  printf("area od the triangle=%f sq units \n",area);
+  printf("area of the triangle=%f sq units \n",area);
   return 0;
 }
 
